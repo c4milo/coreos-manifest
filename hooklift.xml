@@ -38,7 +38,7 @@ Your sources have been sync'd successfully.
   <project path="src/third_party/coreos-overlay"
            name="c4milo/coreos-overlay"
            groups="minilayout"
-           revision="hooklift"/>
+           revision="open-vm-tools"/>
 
   <project path="src/third_party/dbus-c++"
            name="coreos/dbus-cplusplus"
