@@ -37,7 +37,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
-           name="coreos/portage-stable"
+           name="c4milo/portage-stable"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-overlay"
